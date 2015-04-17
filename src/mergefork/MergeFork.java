@@ -26,7 +26,6 @@ public class MergeFork extends javax.swing.JFrame
         "Brianna Whittaker",
         "Austin Trapp",
         "Seth Rhodes",
-        "Jason Branchick"
     };
     
     /**
